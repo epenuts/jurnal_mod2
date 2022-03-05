@@ -1,0 +1,17 @@
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\bin\Debug\net6.0-windows\jurnal_mod2.exe
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\bin\Debug\net6.0-windows\jurnal_mod2.deps.json
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\bin\Debug\net6.0-windows\jurnal_mod2.runtimeconfig.json
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\bin\Debug\net6.0-windows\jurnal_mod2.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\bin\Debug\net6.0-windows\jurnal_mod2.pdb
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.csproj.AssemblyReference.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.Form1.resources
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.csproj.GenerateResource.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.AssemblyInfoInputs.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.AssemblyInfo.cs
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\refint\jurnal_mod2.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.pdb
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\jurnal_mod2.genruntimeconfig.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_2\jurnal_mod2\jurnal_mod2\obj\Debug\net6.0-windows\ref\jurnal_mod2.dll
